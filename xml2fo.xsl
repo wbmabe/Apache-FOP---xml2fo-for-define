@@ -22,7 +22,7 @@ This parameter can be set in the XSLT processor.
    <!-- Description: This stylesheet converts V2.0.0 compliant define.xml to fo format    -->
    <!-- the stylesheet is adapted from define2-0-0.xsl file from CDISC XML V2.0 standard  -->
    <!-- package                                                                           -->
-   <!--                                                                                   -->
+   <!-- Author: Vineet Jain                                                               -->
    <!-- ********************************************************************************* -->
    <xsl:variable name="g_stylesheetVersion" select="'2014-08-08'"/>
    <!-- ********************************************************************************* -->
